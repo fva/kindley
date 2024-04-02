@@ -1,0 +1,2 @@
+# kindley
+Kindle-friendly weblinks
